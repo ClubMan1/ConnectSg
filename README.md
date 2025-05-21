@@ -2,4 +2,7 @@
 
 21 May 2025
 
-Iam here again
+We're working on something great. 404 thoughts is coming soon. Stay tuned!
+
+Code you later,
+Acyl
