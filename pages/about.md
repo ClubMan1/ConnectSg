@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /pages/
+permalink: /pages/about.md
 ---
 
 
