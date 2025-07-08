@@ -1,4 +1,9 @@
->About
+---
+layout: page
+title: About
+permalink: /pages/
+---
+
 
 ## Welcome to My personal space on the web 👋
 
