@@ -4,6 +4,6 @@ theme: minima  #jekyll Themes selection
 
 
 header_pages: #Add Navigation Links
-  - about.md
+  - /pages/about.md
   - bookmarks.md
   - projects.md
