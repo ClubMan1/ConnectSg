@@ -1,3 +1,9 @@
 title: MD ConnectSG
 description: Just a simple website using Markdown and GitHub Pages
-theme: minima  #jekyll Themes
+theme: minima  #jekyll Themes selection
+
+
+header_pages: #Add Navigation Links
+  - about.md
+  - bookmarks.md
+  - projects.md
