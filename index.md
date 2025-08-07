@@ -1,16 +1,15 @@
 ---
 title: Home
+permalink: /index/
 layout: default
 ---
 
-# Welcome to My Personal Website
+# 🚧 Homepage — Work in Progress
 
-This is the home page where you can introduce yourself and share your site’s purpose.
+Thanks for visiting your personal dashboard! This page is currently under construction, but here’s a sneak peek of what’s coming.
 
-- [About](/about/)
-- [Projects](/projects/)
-- [Blog](/blog/)
-- [Contact](/contact/)
+---
 
-Feel free to explore!
+
+>Feel free to explore!
 
