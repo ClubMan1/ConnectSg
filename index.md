@@ -1,6 +1,5 @@
 ---
 title: Home
-permalink: /Home/
 layout: default
 ---
 
