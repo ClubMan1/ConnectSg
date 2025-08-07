@@ -1,11 +1,8 @@
-
 ---
-layout: page
 title: About
 permalink: /about/
+layout: default
 ---
-
-
 ## Welcome to My personal space on web 👋
 
 ---
