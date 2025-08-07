@@ -5,7 +5,7 @@ layout: default
 
 # 🚧 Homepage — Work in Progress
 
-Thanks for visiting your personal dashboard! This page is currently under construction, but here’s a sneak peek of what’s coming.
+404 - This page is currently under construction.
 
 ---
 
