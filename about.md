@@ -3,24 +3,21 @@ title: About
 permalink: /about/
 layout: default
 ---
-## Welcome to My personal space on web 👋
+## 🔗 Digital Profile
+
+404 
+
+code you later, 
+acyl
 
 ---
-
 ## 🛠 What You'll Find Here
 
 - ✍️ Blog posts about tech and productivity
 - 💼 My portfolio and recent work
 - 📫 Ways to get in touch
+- 🏁	(Hidden Flag - 404 )
 
 ---
 
-## 🔗 Quick Links
-
-- [About Me](about.md)
-- [Blog](blog.md)
-- [Contact](contact.md)
-
----
-
-> Built with ❤️ using Markdown and static site tools.
+> This site is built using Markdown and static site tools.
