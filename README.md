@@ -6,7 +6,7 @@ Release note
 
 • Enable minima jekyll Themes
 
-• Navigation menu creation
+• Navigation menu creation (Dashboard, About, Bookmarks, Project, Communication)
 
 Code you later,
 Acyl
