@@ -4,6 +4,8 @@ theme: minima  #jekyll Themes selection
 
 
 header_pages: #Add Navigation Links
+  - dashboard.md
   - about.md
   - bookmarks.md
   - projects.md
+  - Communication.md
