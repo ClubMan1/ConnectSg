@@ -1,8 +1,10 @@
+
 ---
-layout: page
+layout: Page
 title: About
-permalink: /mycontent/
+permalink: /about/
 ---
+
 
 ## Welcome to My personal space on web 👋
 
