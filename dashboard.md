@@ -4,9 +4,9 @@ permalink: /dashboard/
 layout: default
 ---
 
-# Dashboard
+# 🚧 Dashboard — Work in Progress
 
-Welcome to your personal dashboard!
+Thanks for visiting your personal dashboard! This page is currently under construction, but here’s a sneak peek of what’s coming.
 
 ---
 
@@ -30,20 +30,6 @@ Welcome to your personal dashboard!
 ---
 
 ## Traffic
-
-For live traffic updates, check the link below:
-
-[Live Traffic Map (San Francisco)](https://www.google.com/maps/@37.7749,-122.4194,12z/data=!5m1!1e1)
-
 ---
 
-## Quick Links
-
-- [Projects](/projects/)
-- [Blog](/blog/)
-- [Bookmarks](/bookmarks/)
-- [Contact](/contact/)
-
----
-
-> This dashboard is your hub to stay organized and productive.
+> This dashboard will soon have more features. Stay tuned!
