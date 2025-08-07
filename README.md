@@ -3,8 +3,10 @@
 07 Aug 2025
 
 Release note
-&bull Enable minima jekyll Themes
-&bull Navigation setup
+
+• Enable minima jekyll Themes
+
+• Navigation menu creation
 
 Code you later,
 Acyl
