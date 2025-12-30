@@ -18,3 +18,11 @@ We're working on something great. 404 thoughts is coming soon. Stay tuned!
 
 Code you later,
 Acyl
+
+***
+>30 Dec 2025
+
+Added new stuff to "dasboard.md" page.
+
+Code you later,
+Acyl
