@@ -16,7 +16,6 @@ acyl
 - 💼 My portfolio and recent work
 - 📫 Ways to get in touch
 - 🏁	(Hidden Flag - 404 )
-- Contiune update test
 ---
 
 > This site is built using Markdown and static site tools.
